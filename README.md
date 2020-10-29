@@ -1,1 +1,2 @@
-# git-task
+- [Preview](https://kerpichonka.github.io/git-task/)
+- [Pull Request](https://github.com/kerpichonka/git-task/pull/1)
